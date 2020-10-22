@@ -1,0 +1,50 @@
+
+	-> <!-- Font Awesome -->
+	   <script src="https://kit.fontawesome.com/6f4d47c849.js" crossorigin="anonymous"></script>
+
+	-> navbar
+
+	-> navbar-expand
+
+	-> navbar-expand-sm 
+	
+	-> navbar-dark
+
+	-> bg-danger
+
+	-> fixed-top
+
+		->	<nav class="navbar navbar-expand-sm navbar-dark bg-danger fixed-top">
+
+			</nav>
+
+	-> navbar-brand
+
+	-> navbar-text
+
+	-> <button class="button" class="navbar-toggler" data-toggle="collapse" data-target="#"></button>
+
+	-> 		<button class="button" class="navbar-toggler" data-toggle="collapse" data-target="#">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+	->		<div class="collapse navbar-collapse" id="myMenu">
+				<ul class="navbar-nav">
+					<li class="nav-item"><a href="#" class="nav-link">Home</a></li>
+				</ul>
+			</div>
+
+	-> class="Jumbotron"
+
+	-> <h1 class="text-uppercase text-danger font-weight-bold">Welcome to Rk Tech</h1>
+
+	-> .back-img{
+			background-size: cover;
+			background-position: center center;
+			background-repeat: no-repeat;
+			min-height: 70vh; 
+		}
+
+	-> <button type="submit" class="btn btn-outline-success btn-block mt-3 font-weight-bold">Submit</button>
+
+	-> justify-content-center
